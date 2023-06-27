@@ -4,7 +4,7 @@
 Skill 🔨
 
 Backend
-Spring MYSQL Django
+Spring MYSQL Django
 
 Front
 Vue.js JavaScript
