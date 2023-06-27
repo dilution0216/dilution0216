@@ -1,10 +1,10 @@
 ### 안녕하세요! 향상심을 가진 개발자 김희석 입니다. 🤗
 
 
-Skill 🔨
+### Skill 🔨
 
-Backend
+## Backend
 Spring MYSQL Django
 
-Front
+## Front
 Vue.js JavaScript
