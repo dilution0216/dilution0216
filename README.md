@@ -14,4 +14,4 @@
 
 
 ### Project
-게시판, 그룹, 캘린더, 스톱워치, 채팅서비스를 제공하는 스터디 웹사이트 [바로가기](https://github.com/dilution0216/swithme)
+Swithme : 게시판, 그룹, 캘린더, 스톱워치, 채팅서비스를 제공하는 스터디 웹사이트 [바로가기](https://github.com/dilution0216/swithme)
