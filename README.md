@@ -1,4 +1,4 @@
-## 안녕하세요! 향상심을 가진 개발자 김희석 입니다. 🤗 
+## 안녕하세요! 소통하는 개발자 김희석 입니다. 🤗 
                
 ## LANGUAGE
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
