@@ -15,7 +15,6 @@
 
 ### Project
 Swithme : 게시판, 그룹, 캘린더, 스톱워치, 채팅서비스를 제공하는 스터디 웹사이트 [바로가기](https://github.com/dilution0216/swithme) <br>
-SpringMini : Spring 기반 미니프로젝트 [바로가기](https://github.com/dilution0216/SpringMini)
 
 ### Blog
 運七技三 - 다가올 운칠을 위하여 기삼을 다지는 블로그 [바로가기](https://dilution0216.tistory.com/)
