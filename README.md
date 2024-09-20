@@ -19,6 +19,3 @@
 Swithme : 게시판, 그룹, 캘린더, 스톱워치, 채팅서비스를 제공하는 스터디 웹사이트 [바로가기](https://github.com/dilution0216/swithme)  <br>
 
 Buyme : Redis에 기반한 대규모 주문 처리 및 MSA 설계를 통해 선착순 구매/주문/결제를 제공하는 서비스 [바로가기](https://github.com/dilution0216/buyme) <br>
-
-### Blog
-運七技三 - 다가올 운칠을 위하여 기삼을 다지는 블로그 [바로가기](https://dilution0216.tistory.com/) 
