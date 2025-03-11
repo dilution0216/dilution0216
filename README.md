@@ -20,4 +20,4 @@ Swithme : 게시판, 그룹, 캘린더, 스톱워치, 채팅서비스를 제공�
 
 Buyme : Redis에 기반한 대규모 주문 처리 및 MSA 설계를 통해 선착순 구매/주문/결제를 제공하는 서비스 [바로가기](https://github.com/dilution0216/buyme) <br>
 
-parkingservice : Spring AOP를 통해 API 로그 기록 -> Elasticsearch에 저장하여 Kibana 대시보드 시각화 / 차량의 입출차 기록을 기반으로 요금을 계산하고, 결제 및 정기권 관리하는 서비스 [바로가기](https://github.com/dilution0216/ParkingService) <br>
+Parkingservice : Spring AOP를 통해 API 로그 기록 -> Elasticsearch에 저장하여 Kibana 대시보드 시각화 / 차량의 입출차 기록을 기반으로 요금을 계산하고, 결제 및 정기권 관리하는 서비스 [바로가기](https://github.com/dilution0216/ParkingService) <br>
